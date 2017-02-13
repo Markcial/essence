@@ -1,6 +1,10 @@
 # essence
 Practical examples for a crash course introduction to the elixir language
 
+## Install Elixir
+
+Follow the elixir website [install guide](http://elixir-lang.org/install.html).
+
 ## TOC
 
   * [01 variables](01-variables/ABOUT.md)
